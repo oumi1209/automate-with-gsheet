@@ -4,7 +4,7 @@ Simple ETL: Google Sheets -> PostgreSQL .
 
 - Authenticates to Google Sheets via a Service Account JSON (provided via env var)
 - Reads a worksheet into a pandas DataFrame
-- Loads the data into a PostgreSQL table
+- Loads the data into a PostgreSQL table.
 
 Environment variables:
   SHEET_ID
