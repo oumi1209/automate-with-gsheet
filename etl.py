@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-Simple ETL: Google Sheets -> PostgreSQL ..
+Simple ETL: Google Sheets -> PostgreSQL .
 
 - Authenticates to Google Sheets via a Service Account JSON (provided via env var)
 - Reads a worksheet into a pandas DataFrame
