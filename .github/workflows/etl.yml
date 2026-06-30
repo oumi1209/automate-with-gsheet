@@ -1,4 +1,4 @@
-name: Google Sheets → PostgreSQL ETL
+name: Google Sheets to PostgreSQL ETL
 
 on:
   schedule:
