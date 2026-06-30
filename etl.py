@@ -15,7 +15,7 @@ Environment variables:
   PG_HOST
   PG_PORT
   PG_DB
-  PG_TABLE -> Provide whatever name you want
+  PG_TABLE -> Provide whatever name you want,,
 """
 
 import os
